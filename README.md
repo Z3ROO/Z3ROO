@@ -2,7 +2,7 @@
 - 👀 I’m not interested ...
 - 🌱 I’m currently learning ... thats pretty accurate actualy.
 - 💞️ I’m looking to collaborate on reproductive activities for test purposes only...
-- 📫 cant be reached
+- 📫 cant be reached ... unless ^
 
 <!---
 Z3ROO/Z3ROO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
